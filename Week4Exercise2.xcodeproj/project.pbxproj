@@ -16,6 +16,7 @@
 		6E54D9252551D157005D0F54 /* Week4Exercise2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E54D9242551D157005D0F54 /* Week4Exercise2Tests.swift */; };
 		6E54D9302551D158005D0F54 /* Week4Exercise2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E54D92F2551D158005D0F54 /* Week4Exercise2UITests.swift */; };
 		6E54D980255210C3005D0F54 /* Server.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E54D97F255210C3005D0F54 /* Server.swift */; };
+		6E54D99A25537975005D0F54 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E54D99925537975005D0F54 /* SignUpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6E54D92F2551D158005D0F54 /* Week4Exercise2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week4Exercise2UITests.swift; sourceTree = "<group>"; };
 		6E54D9312551D158005D0F54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6E54D97F255210C3005D0F54 /* Server.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Server.swift; sourceTree = "<group>"; };
+		6E54D99925537975005D0F54 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				6E54D90F2551D153005D0F54 /* SceneDelegate.swift */,
 				6E54D9112551D153005D0F54 /* ViewController.swift */,
 				6E54D9132551D154005D0F54 /* Main.storyboard */,
+				6E54D99925537975005D0F54 /* SignUpViewController.swift */,
 				6E54D97F255210C3005D0F54 /* Server.swift */,
 				6E54D9162551D157005D0F54 /* Assets.xcassets */,
 				6E54D9182551D157005D0F54 /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				6E54D90E2551D153005D0F54 /* AppDelegate.swift in Sources */,
 				6E54D980255210C3005D0F54 /* Server.swift in Sources */,
 				6E54D9102551D153005D0F54 /* SceneDelegate.swift in Sources */,
+				6E54D99A25537975005D0F54 /* SignUpViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
